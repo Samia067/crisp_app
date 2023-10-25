@@ -1,2 +1,5 @@
-database_features.pt
+.ipynb*
+database*
+database/*
+outline.png
 model.pth
